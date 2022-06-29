@@ -1,0 +1,1 @@
+print(" tomorrow is no class for you guys")
